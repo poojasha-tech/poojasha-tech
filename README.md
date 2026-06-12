@@ -1,4 +1,4 @@
-Backend engineer based in Hannover, Germany. Two years building production Node.js services in India — including the Amar
+Backend engineer based in Berlin, Germany. Two years building production Node.js services in India — including the Amar
    Ujala news app serving millions of users, and state-wide government platforms at Neovant. Now looking for backend roles
   in Germany.
 
@@ -6,11 +6,9 @@ Backend engineer based in Hannover, Germany. Two years building production Node.
 
   ## About
 
-  - ~2 years of professional backend experience (India)
-  - Currently in Hannover, Germany — open to backend roles across Germany or remote-DE
-  - BSc Mathematics; MSc Mathematics in progress at Leibniz University Hannover
-  - Visa: EU Blue Card eligible (recognised degree, Germany-based)                                                         
-  - Languages: English (fluent), German (B1 certified, working toward B2)                                                  
+  - ~2 years of professional backend experience.
+  - Currently in Belin, Germany — open to backend roles across Germany or remote-DE                                                       
+  - Languages: English (fluent), German (B2 certified)                                                  
                                                                                                                            
   ## What I've built professionally                                                                                        
                                                                                                                          
