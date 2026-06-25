@@ -11,20 +11,22 @@ Backend engineer based in Berlin, Germany. Two years building production Node.js
   - Languages: English (fluent), German (B2 certified)                                                  
                                                                                                                            
   ## What I've built professionally                                                                                        
-                                                                                                                         
-  **Amar Ujala (news platform, India)** — Backend engineer                                                                 
-  Built Node.js APIs serving the Amar Ujala news app. Optimised SQL and PostgreSQL queries for high-concurrency traffic and
-   real-time data delivery to millions of users.                                                                           
-   
-  **Neovant (government technology, India)** — Backend engineer                                                            
-  Contributed to state-wide government infrastructure platforms. Built secure APIs, implemented Role-Based Access Control
-  (RBAC), and worked across the stack with React (frontend) and AWS (deployments).                                         
-   
-  ## Tech I work with                                                                                                      
-                                                                                                                         
-  **Languages:** JavaScript, Java, SQL
-  **Backend:** Node.js, Express, REST APIs, Socket.IO
-  **Data:** PostgreSQL, MongoDB, Prisma, Mongoose                                                                          
-  **Infra:** Docker, docker-compose, AWS, Linux, Git
-  **Frontend:** React, Vite, Chakra UI                                                                                     
-  **Currently learning:** AI agents, Spring Boot, system design 
+  **Avishkar.tech (Amar Ujala news platform, India)** — Backend engineer (intern)
+  Built Java and Spring Boot REST APIs for the Amar Ujala news platform. Tuned
+  PostgreSQL queries for high-traffic, read-heavy workloads. Integrated external
+  services via webhooks, contributed to code reviews, and shipped through the full SDLC.
+  
+  **Neovant (government technology, India)** — Backend engineer (part-time)
+  Built Java and Spring Boot microservices backed by Hibernate and PostgreSQL on AWS
+  for a state government platform. Implemented Role-Based Access Control (RBAC),
+  integrated AWS Bedrock via REST for document analysis and fraud detection, and
+  worked end-to-end — design, code review, deployment — in the "You Write It,
+  You Run It" model.
+  
+  ## Tech I work with
+
+  **Languages:** Java, JavaScript, SQL
+  **Backend:** Spring Boot, Hibernate, REST APIs, Microservices, Webhooks
+  **Data:** PostgreSQL, MySQL
+  **Infra:** Docker, AWS, AWS Bedrock, Linux, Git, CI/CD
+  **Testing:** JUnit
